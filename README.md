@@ -49,6 +49,7 @@ Technologies Used
 - Seaborn
 - Plotly
 - Scikit-learn
+  
 **Conclusion**
 This project demonstrates the effectiveness of polynomial regression in predicting salaries based on job levels. The insights gained from the data analysis can be valuable for organizations in making informed decisions regarding salary structures.
 
